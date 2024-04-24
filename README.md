@@ -12,7 +12,7 @@ If you require further instruction explore my "web_dev_tutorials" or "personal_w
 
 Here is a map of what each branch covers:
 * main: installing node.js and setting up GET request
-* implementation: implementing get request by making an API call from the fron end
+* implementation: implementing GET request by making an API call from the front end
 ##
 1) initialize app:
    
