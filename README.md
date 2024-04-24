@@ -8,7 +8,10 @@ This tutorial will assume that you understand how to initialize a react app. If 
 
 *npm init react-app app-name*
 
-If you require further instruction explore my "web_dev_tutorials" or "personal_website" repositories. 
+If you require further instruction explore my "web_dev_tutorials" or "personal_website" repositories.
+
+Here is a map of what each branch covers:
+* asldfj
 ##
 1) initialize app:
    
