@@ -9,8 +9,7 @@ This tutorial will assume that you understand how to initialize a react app. If 
 npm init react-app app-name
 
 If you require further instruction explore my "web_dev_tutorials" or "personal_website" repositories. 
-
-
+##
 1) initialize app:
    
  *npm init*
