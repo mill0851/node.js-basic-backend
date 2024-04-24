@@ -12,11 +12,14 @@ If you require further instruction explore my "web_dev_tutorials" or "personal_w
 
 
 1) initialize app:
+   
  *npm init*
+ 
  This will create the required package.json file through an interactive process simply follow the prompts. 
+ 
 
 
-2) install express:
+3) install express:
 
  npm install express --save
 
