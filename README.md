@@ -11,7 +11,8 @@ This tutorial will assume that you understand how to initialize a react app. If 
 If you require further instruction explore my "web_dev_tutorials" or "personal_website" repositories.
 
 Here is a map of what each branch covers:
-* asldfj
+* main: installing node.js and setting up GET request
+* implementation: implementing get request by making an API call from the fron end
 ##
 1) initialize app:
    
