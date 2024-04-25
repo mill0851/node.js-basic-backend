@@ -8,14 +8,13 @@ import '../scss/Navbar.scss';
 const CustomNavbar = () => {
     return (
         <Navbar expand="lg">
-            <Navbar.Brand href="#home">My Website</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Brand href="#home" className="dark-mode-text">Software Studio</Navbar.Brand>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" className="custom-toggler" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                    <Nav.Link href="#home">Home</Nav.Link>
-                    <Nav.Link href="#about">About</Nav.Link>
-                    <Nav.Link href="#services">Services</Nav.Link>
-                    <Nav.Link href="#contact">Contact</Nav.Link>
+                    <Nav.Link href="#home" className="dark-mode-text">Home</Nav.Link>
+                    <Nav.Link href="#about" className="dark-mode-text">About</Nav.Link>
+                    <Nav.Link href="#services" className="dark-mode-text">Search User</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
