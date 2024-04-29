@@ -45,3 +45,13 @@ Here is a map of what each branch covers:
  *node index.js* 
 ##
 6) View GET request @ http://localhost:3000/url
+##
+At this point you have implemented a basic backend useing node.js and expres. This repository contains a basic front end with a mock "Register" page as well as a backend. I have implemented a POST request that
+send the form data to the basckend and writes the data to a json file. It is your job to implement the following features:
+
+* Do some verification, make sure the email data is in email format, make sure that both password fields match each other. If they do not throw an error and alert the user that they have failed to fill out the form correctly.
+* Create a "Login" page that searches the json containing the users and tries to find a match, if there is a match navigate the user to a new page.
+* Do some searching, if a user tries to register but there is already an account with the desired email let them know and navigate them to the login page.
+* Add a page called "Users" that lets one search for users by email, and returns something indicating whether the user exists.
+
+Accomplishing these tasks should give you a solid foundation in full stack development and jump start you on any projects of your own. You are ENCOURAGED to use ChatGPT and Copilot as much as needed. ALSO, dont worry about making the webpages pretty. Practice your front end page structure but no need to worry about the details. Have fun!
