@@ -6,7 +6,7 @@ install npm and node.js. The easiest way to do this is through the installer on 
 
 This tutorial will assume that you understand how to initialize a react app. If you dont here is the script to do so:
 
-*npm init react-app app-name*
+`npm init react-app app-name`
 
 If you require further instruction explore my "web_dev_tutorials" or "personal_website" repositories.
 
