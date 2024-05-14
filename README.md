@@ -28,9 +28,9 @@ Here is a map of what each branch covers:
 ##
 3) create index.js (or whatever you named it) file and add the following code: 
 
- `var express = require("express"); //Uses the express variable to require express
- var app = express(); //initializes express using the app variable
- app.listen(3000, () => {
+ `var express = require("express"); //Uses the express variable to require express`
+ `var app = express(); //initializes express using the app variable`
+ `app.listen(3000, () => {
   console.log("Server running on port 3000"); //tells our app what port to run on
  });`
  ##
